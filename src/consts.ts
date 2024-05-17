@@ -2,15 +2,15 @@ import type { Site, Page, Links, Socials } from "@types"
 
 // Global
 export const SITE: Site = {
-  TITLE: "Astro Sphere",
-  DESCRIPTION: "Welcome to Astro Sphere, a portfolio and blog for designers and developers.",
-  AUTHOR: "Mark Horn",
+  TITLE: "Petrus Blog",
+  DESCRIPTION: "Bem vindo ao meu Blog desenvolvido com Astro.",
+  AUTHOR: "Pedro Henrique",
 }
 
 // Work Page
 export const WORK: Page = {
-  TITLE: "Work",
-  DESCRIPTION: "Places I have worked.",
+  TITLE: "Trabalhos",
+  DESCRIPTION: "Trabalhos e formações",
 }
 
 // Blog Page
@@ -21,61 +21,61 @@ export const BLOG: Page = {
 
 // Projects Page 
 export const PROJECTS: Page = {
-  TITLE: "Projects",
-  DESCRIPTION: "Recent projects I have worked on.",
+  TITLE: "Projetos",
+  DESCRIPTION: "Projetos que venho trabalhando recentemente.",
 }
 
 // Search Page
 export const SEARCH: Page = {
-  TITLE: "Search",
-  DESCRIPTION: "Search all posts and projects by keyword.",
+  TITLE: "Pesquisar",
+  DESCRIPTION: "Pesquise usando palavras chaves...",
 }
 
 // Links
 export const LINKS: Links = [
-  { 
-    TEXT: "Home", 
-    HREF: "/", 
+  {
+    TEXT: "Home",
+    HREF: "/",
   },
-  { 
-    TEXT: "Work", 
-    HREF: "/work", 
+  {
+    TEXT: "Trabalhos",
+    HREF: "/work",
   },
-  { 
-    TEXT: "Blog", 
-    HREF: "/blog", 
+  {
+    TEXT: "Blog",
+    HREF: "/blog",
   },
-  { 
-    TEXT: "Projects", 
-    HREF: "/projects", 
+  {
+    TEXT: "Projetos",
+    HREF: "/projects",
   },
 ]
 
 // Socials
 export const SOCIALS: Socials = [
-  { 
+  {
     NAME: "Email",
-    ICON: "email", 
-    TEXT: "markhorn.dev@gmail.com",
-    HREF: "mailto:markhorn.dev@gmail.com",
+    ICON: "email",
+    TEXT: "pedromelo.dev.contato@gmail.com",
+    HREF: "mailto:pedromelo.dev.contato@gmail.com",
   },
-  { 
+  {
     NAME: "Github",
     ICON: "github",
-    TEXT: "markhorn-dev",
+    TEXT: "PedroHenrique1606",
     HREF: "https://github.com/markhorn-dev/astro-sphere"
   },
-  { 
+  {
     NAME: "LinkedIn",
     ICON: "linkedin",
-    TEXT: "markhorn-dev",
-    HREF: "https://www.linkedin.com/in/markhorn-dev/",
+    TEXT: "Pedro Henrique",
+    HREF: "https://www.linkedin.com/in/pedro-henrique-melo-da-silva-a7a700231/",
   },
-  { 
-    NAME: "Twitter",
-    ICON: "twitter-x",
-    TEXT: "markhorn_dev",
-    HREF: "https://twitter.com/markhorn_dev",
+  {
+    NAME: "Instagram",
+    ICON: "instagram",
+    TEXT: "pedrohenrique.trc",
+    HREF: "https://www.instagram.com/pedrohenrique.trc/"
   },
 ]
 

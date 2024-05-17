@@ -1,11 +1,14 @@
 ---
-company: "Apple"
-role: "Software Engineer"
-dateStart: "01/01/2020"
-dateEnd: "11/27/2022"
+company: "ArgoTech"
+role: "Estagiário Front-End"
+dateStart: "08/14/2023"
+dateEnd: "11/27/2023"
 ---
 
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+Tive a oportunidade de trabalhar com diversas tecnologias, como ReactJS e AngularJS, além de colocar em prática diversos conceitos de responsividade, gitflow, organização, scrum e trabalho em equipe. Algumas skills que trabalhei:
 
-- Sit amet consectetur adipisicing elit. Iure illo neque tempora.
-- Quibusdam, debitis voluptatum, lorem ipsum
+- ReactJS
+- Scss
+- Typescript
+- AngularJS
+- Versionamento de código
