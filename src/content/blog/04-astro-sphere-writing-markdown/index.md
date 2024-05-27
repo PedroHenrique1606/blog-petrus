@@ -1,13 +1,13 @@
 ---
-title: "Astro Sphere: Writing Markdown"
-summary: "Basic Markdown syntax that can be used when writing Markdown content in Astro Sphere."
-date: "Mar 13 2024"
+title: "Introdução ao Flexbox: Layouts Flexíveis com CSS"
+summary: "Aprenda como usar Flexbox para criar layouts flexíveis e responsivos."
+date: "May 21 2024"
 draft: false
 tags:
+
 - Tutorial
-- Astro
-- Astro Sphere
-- Markdown
+- CSS
+- Flexbox
 ---
 
 ### Headings
