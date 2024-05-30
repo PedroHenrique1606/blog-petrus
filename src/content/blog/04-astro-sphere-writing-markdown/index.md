@@ -1,236 +1,49 @@
 ---
-title: "Introdução ao Flexbox: Layouts Flexíveis com CSS"
-summary: "Aprenda como usar Flexbox para criar layouts flexíveis e responsivos."
-date: "May 21 2024"
+title: "Mantendo o Foco ao Programar: Dicas e Recomendações"
+summary: "Como se concentrar para obter sua melhor performance a cada linha de código."
+date: "May 30 2024"
 draft: false
 tags:
 
-- Tutorial
-- CSS
-- Flexbox
+- Guia
+- Soft Skills
+- Programação
 ---
+Programar requer concentração e foco para resolver problemas complexos e escrever código limpo e eficiente. No entanto, manter-se concentrado pode ser desafiador em um mundo repleto de distrações. Neste artigo, exploraremos algumas dicas e recomendações para ajudá-lo a manter o foco enquanto programa, incluindo sugestões de músicas, configuração de ambiente e outras estratégias eficazes.
 
-### Headings
+### 1. Crie um Ambiente de Trabalho Confortável
+Um ambiente de trabalho confortável e livre de distrações é essencial para manter o foco ao programar. Aqui estão algumas sugestões para criar o ambiente ideal:
 
-```text
-# H1
+- **Espaço Organizado**: Mantenha sua área de trabalho limpa e organizada para minimizar distrações visuais.
+- **Iluminação Adequada**: Certifique-se de que o ambiente esteja bem iluminado para reduzir a fadiga visual.
+- **Cadeira Confortável**: Escolha uma cadeira ergonômica que ofereça suporte adequado para evitar desconforto durante longas sessões de programação.
 
-## H2
+### 2. Estabeleça Metas e Prioridades
+Defina metas claras e objetivos para cada sessão de programação. Isso ajudará a manter o foco e a direcionar sua energia para tarefas específicas. Além disso, priorize suas tarefas com base na importância e urgência, para garantir que você esteja trabalhando nas coisas certas no momento certo.
 
-### H3
+### 3. Use Técnicas de Gestão de Tempo
+A gestão eficaz do tempo é fundamental para manter o foco e aumentar a produtividade. Experimente técnicas como a Técnica Pomodoro, que envolve períodos de trabalho focado alternados com pausas curtas para descanso. Isso pode ajudar a evitar a fadiga mental e a manter a concentração ao longo do dia.
 
-#### H4
+### 4. Escolha a Trilha Sonora Adequada
+A música pode desempenhar um papel importante na manutenção do foco durante a programação. Aqui estão alguns tipos de música que muitos programadores acham úteis:
 
-##### H5
+- **Música Ambiente ou Instrumental**: Música suave e sem letras pode ajudar a criar um ambiente calmo e relaxante para se concentrar.
+- **Música Eletrônica ou Chillout**: Batidas suaves e ritmos relaxantes podem ajudar a manter um ritmo constante de trabalho sem distrações.
+- **Trilhas Sonoras de Jogos ou Filmes**: Muitas trilhas sonoras são projetadas para evocar emoções e criar atmosferas envolventes, o que pode ser útil para manter o foco.
 
-###### H6
+### 5. Evite Multitarefa Excessiva
+Embora possa ser tentador alternar entre várias tarefas ao mesmo tempo, a multitarefa excessiva pode prejudicar a produtividade e reduzir a qualidade do trabalho. Em vez disso, concentre-se em uma tarefa por vez e evite distrações desnecessárias, como redes sociais ou e-mails.
 
-```
+### 6. Faça Pausas Regulares
+É importante fazer pausas regulares durante o dia para descansar a mente e recarregar as energias. Faça pausas curtas a cada hora ou duas, e aproveite para alongar, tomar um café ou simplesmente relaxar por alguns minutos. Isso ajudará a manter a clareza mental e a evitar a exaustão.
 
-# H1
+### 7. Entenda que tudo é um processo
+Não deixe os pensamentos intrusivos de "fulano é melhor que eu", "eu não fui feito para programar", "sou burro demais para entender tudo isso", dentre outras coisas, tomarem conta de você. Todas as etapas de aprendizagem da programação são essenciais para você se tornar um bom programador e um ótimo profissional no mercado. Você já nasceu sabendo andar, correr, falar ou sequer comer sozinho? NÃO. Você aprendeu tudo isso conforme foi crescendo e se desenvolvendo, na programação não é diferente. 
 
-## H2
+### Conclusão
+Manter o foco ao programar é essencial para alcançar o sucesso em seus projetos. Ao criar um ambiente de estudos e trabalho confortável, estabelecer metas claras, usar técnicas de gestão de tempo eficazes e escolher a trilha sonora certa, você pode maximizar sua produtividade e criar um fluxo de trabalho mais eficiente. Experimente diferentes estratégias e descubra o que funciona melhor para você. Já diria a *Loteria dos Sonhos*, "insista, persista e não desista a sua hora chegará"
 
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
-
-### Paragraph
-
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-### Images
-
-Relative image in the /public folder
-
-```markdown
-![blog placeholder](/open-graph.jpg)
-```
-
-![blog placeholder](/open-graph.jpg)
-
-Relative Image in the same folder as the markdown
-
-```markdown
-![Test Relative Image](./spongebob.png)
-```
-
-![Test Relative Image](./spongebob.png)
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-### Blockquote without attribution
-
-#### Syntax
-
-```markdown
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-```
-
-#### Output
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-
-### Blockquote with attribution
-
-#### Syntax
-
-```markdown
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-```
-
-#### Output
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-#### Syntax
-
-```markdown
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-```
-
-#### Output
-
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-
-## Code Blocks
-
-#### Syntax
-
-we can use 3 backticks ``` in new line and write snippet and close with 3 backticks on new line and to highlight language specific syntac, write one word of language name after first 3 backticks, for eg. html, javascript, css, markdown, typescript, txt, bash
-
-````markdown
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-````
-
-Output
-
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-
-## List Types
-
-### Ordered List
-
-#### Syntax
-
-```markdown
-1. First item
-2. Second item
-3. Third item
-```
-
-#### Output
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-#### Syntax
-
-```markdown
-- List item
-- Another item
-- And another item
-```
-
-#### Output
-
-- List item
-- Another item
-- And another item
-
-### Nested list
-
-#### Syntax
-
-```markdown
-- Fruit
-  - Apple
-  - Orange
-  - Banana
-- Dairy
-  - Milk
-  - Cheese
-```
-
-#### Output
-
-- Fruit
-  - Apple
-  - Orange
-  - Banana
-- Dairy
-  - Milk
-  - Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-#### Syntax
-
-```markdown
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-```
-
-#### Output
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+Vou deixar aqui abaixo algumas indicações de trilhas sonoras para seus estudos. Até a próxima ^-^.
+[![](https://markdown-videos-api.jorgenkh.no/youtube/jfKfPfyJRdk?si=KH-ayD7Js1_pQN4o)](https://www.youtube.com/live/jfKfPfyJRdk?si=KH-ayD7Js1_pQN4o)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/wJDtkILuk9Q)](https://www.youtube.com/watch?v=wJDtkILuk9Q)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/sca4VG9b0NY)](https://www.youtube.com/watch?v=sca4VG9b0NY)
