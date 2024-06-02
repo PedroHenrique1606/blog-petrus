@@ -17,7 +17,7 @@ HTML é uma linguagem de marcação que utiliza elementos ou tags para estrutura
 
 1. **Escolha um editor de código**
 - Visual Studio Code (VSCode): Um editor gratuito e de código aberto, popular entre desenvolvedores web devido à sua flexibilidade e vasta coleção de extensões. [Baixe o VSCode aqui](https://code.visualstudio.com/);
-- Sublime Text:Um editor leve e rápido, conhecido por sua interface amigável e personalização. [Baixe o Sublime por aqui](https://www.sublimetext.com/);
+- Sublime Text: Um editor leve e rápido, conhecido por sua interface amigável e personalização. [Baixe o Sublime por aqui](https://www.sublimetext.com/);
 - Reptli: Esse é um editor de código online fácil e intuitivo para quem possue um pc com menos potência ou, quem sabe, para quem possue um Chormebook. [Acesse o Repli por aqui](https://replit.com/).
   
  2. **Estrutura Básica de um Documento HTML**
