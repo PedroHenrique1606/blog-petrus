@@ -1,7 +1,7 @@
 ---
 title: "Como Escolher o Sistema Operacional para Programar: Vantagens e Desvantagens"
 summary: "Tutorial completo para te ajudar a tomar a melhor decisão."
-date: "Jun 01 2024"
+date: "June 01 2024"
 draft: false
 tags:
 
@@ -17,6 +17,7 @@ Um sistema operacional é o software fundamental que gerencia o hardware do comp
 
 ### Principais Sistemas Operacionais para Programar
 #### Windows
+![Interface Windows](./interface_windows_11.jpg)
 ##### Vantagens
 1. Compatibilidade Ampla: Windows suporta uma vasta gama de softwares de desenvolvimento, desde editores de código a ferramentas de design.
 2. Ferramentas da Microsoft: Disponibilidade de ferramentas poderosas como Visual Studio e .NET Framework.
@@ -27,6 +28,7 @@ Um sistema operacional é o software fundamental que gerencia o hardware do comp
 3. Atualizações: As atualizações do Windows podem ser intrusivas e, às vezes, interromper o fluxo de trabalho.
 
 #### MacOS
+![Interface MacOS](./macos_interface.png)
 ##### Vantagens
 1. Ambiente Unix: macOS é baseado em Unix, o que facilita o desenvolvimento de software para ambientes Unix/Linux.
 2. Ferramentas de Desenvolvimento da Apple: Ideal para desenvolvimento iOS e macOS com ferramentas como Xcode.
@@ -37,6 +39,7 @@ Um sistema operacional é o software fundamental que gerencia o hardware do comp
 3. Compatibilidade: Alguns softwares e jogos podem não ser compatíveis com macOS.
 
 #### Linux
+![Interface Linux](./ubuntu-interface.webp)
 ##### Vantagens
 1. Gratuito e Open Source: A maioria das distribuições Linux são gratuitas e de código aberto, oferecendo total liberdade e personalização.
 2. Ambiente de Desenvolvimento: Perfeito para desenvolvimento de software de servidores e sistemas baseados em Unix.
