@@ -79,8 +79,8 @@ O CSS também pode ser embutido diretamente dentro do documento HTML, dentro da 
 </html>
 ```
 
-3. **CSS Inline
-**
+3. **CSS Inline**
+
 CSS inline é aplicado diretamente no elemento HTML usando o atributo style. Essa abordagem deve ser usada com moderação, pois pode deixar o código HTML desorganizado.
 
 ```html
