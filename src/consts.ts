@@ -9,7 +9,7 @@ export const SITE: Site = {
 
 // Work Page
 export const WORK: Page = {
-  TITLE: "Trabalhos",
+  TITLE: "Experiência",
   DESCRIPTION: "Trabalhos e formações",
 }
 
@@ -38,7 +38,7 @@ export const LINKS: Links = [
     HREF: "/",
   },
   {
-    TEXT: "Trabalhos",
+    TEXT: "Experiência",
     HREF: "/work",
   },
   {
