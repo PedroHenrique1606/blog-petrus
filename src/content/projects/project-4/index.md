@@ -31,6 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-![scroll CSS](./thumbnail.jpg)
+![Layout](./thumbnail.jpg)
 
 Você pode visualizar o layout do projeto através [Desse Link](https://www.figma.com/community/file/1161298959495777934/travling-travel-website-landing-page?searchSessionId=lyvnl0lm-fc483ovp085). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
