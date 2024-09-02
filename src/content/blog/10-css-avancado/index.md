@@ -7,7 +7,7 @@ tags:
 
 - Guia
 - CSS
-- HMTML
+- HTML
 - Front End
 ---
 Neste guia, exploraremos técnicas avançadas de CSS que vão além do básico. Veremos como usar CSS Grid, Flexbox, animações, variáveis CSS, pseudo-elementos e muito mais. Cada técnica será acompanhada de exemplos práticos para você testar e visualizar os resultados.
