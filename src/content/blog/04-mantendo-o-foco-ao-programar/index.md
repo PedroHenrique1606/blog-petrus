@@ -9,6 +9,7 @@ tags:
 - Soft Skills
 - Programação
 ---
+###### Autor: *[Pedro Henrique Melo](https://youtu.be/P5ZqFZKG4uE?si=OXqNtUg2lwQtD3jU)*
 Programar requer concentração e foco para resolver problemas complexos e escrever código limpo e eficiente. No entanto, manter-se concentrado pode ser desafiador em um mundo repleto de distrações. Neste artigo, exploraremos algumas dicas e recomendações para ajudá-lo a manter o foco enquanto programa, incluindo sugestões de músicas, configuração de ambiente e outras estratégias eficazes.
 
 ### 1. Crie um Ambiente de Trabalho Confortável

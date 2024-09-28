@@ -10,6 +10,7 @@ tags:
 - HTML
 - Front End
 ---
+###### Autor: *[Pedro Henrique Melo](https://youtu.be/P5ZqFZKG4uE?si=OXqNtUg2lwQtD3jU)*
 Neste guia, exploraremos técnicas avançadas de CSS que vão além do básico. Veremos como usar CSS Grid, Flexbox, animações, variáveis CSS, pseudo-elementos e muito mais. Cada técnica será acompanhada de exemplos práticos para você testar e visualizar os resultados.
 
 ### 1. CSS Grid

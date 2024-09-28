@@ -8,7 +8,7 @@ tags:
 - JavaScript
 - HTML
 ---
-
+###### Autor: *[Pedro Henrique Melo](https://www.linkedin.com/in/pedro-henrique-melo-da-silva-a7a700231)*
 JavaScript é uma das linguagens de programação mais populares e amplamente usadas no desenvolvimento web. Originalmente criada para adicionar interatividade às páginas web, hoje ela é uma tecnologia fundamental para a construção de aplicações web dinâmicas, tanto no front-end quanto no back-end. Neste artigo, vamos explorar como você pode iniciar sua jornada com JavaScript, abordando os conceitos principais e indicando as melhores ferramentas para começar.
 
 ### O que é JavaScript?

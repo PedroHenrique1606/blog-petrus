@@ -9,6 +9,7 @@ tags:
 - Git
 - Programação
 ---
+###### Autor: *[Pedro Henrique Melo](https://youtu.be/P5ZqFZKG4uE?si=OXqNtUg2lwQtD3jU)*
 A padronização de commits é essencial para manter um histórico de commits claro e organizado. Um dos padrões mais populares é o Conventional Commits, que fornece um conjunto de regras leves para criar um histórico explícito de commits. Essa convenção é especialmente útil para automação de ferramentas e se alinha bem com o versionamento semântico (SemVer).
 
 ### Estrutura de um Commit
