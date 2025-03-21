@@ -1,12 +1,10 @@
-![Astro Sphere Lighthouse Score](_astrosphere.jpg)
+![Astro Sphere Blog](_astrosphere.jpg)
 
-Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
+Hello, welcome to my programming blog. In order to increase my stacks in other technologies and teach about new content that I'm constantly learning, I decided to create the Petrus Blog with the Astro framework.
 
-It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
+## 🚀 Deployment platform
 
-## 🚀 Deploy your own
-
-[![Deploy with Vercel](_deploy_vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-sphere)  [![Deploy with Netlify](_deploy_netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-sphere)
+[![Deploy with Netlify](_deploy_netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-sphere)
 
 ## 📋 Features
 
@@ -34,10 +32,6 @@ All pages under 100kb (including fonts)
 ## ⚡︎ Fast
 Rendered in ~40ms on localhost
 
-## 📄 Configuration
-
-The blog posts on the demo serve as the documentation and configuration.
-
 ## 💻 Commands
 
 All commands are run from the root of the project, from a terminal:
@@ -46,7 +40,7 @@ Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, e
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
+| `npm install`             | Installs dependencies from this project                            |
 | `npm run dev`             | Starts local dev server at `localhost:4321`      |
 | `npm run dev:network`     | Starts dev server on local network               |
 | `npm run sync`            | Generates TypeScript types for all Astro modules.|
@@ -58,32 +52,7 @@ Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, e
 | `npm run lint`            | Run ESLint                                       |
 | `npm run lint:fix`        | Auto-fix ESLint issues                           |
 
-## 🗺️ Roadmap
-
-A few features I plan to implement
-- ⬜ Code Blocks - copy to clipboard
-- ⬜ Article Pages - Table of Contents
-- ⬜ Article Pages - Share on social media
 
 ## ✨ Acknowledgement
 
 Theme inspired by [Paco Coursey](https://paco.me/), [Lee Robinson](https://leerob.io/) and [Hayden Bleasel](https://www.haydenbleasel.com/)
-
-
-## 🏛️ License
-
-MIT
-
-
-# 1.0.1 Update
-
-Added ability to run dev and preview on local network.
-added npm run dev:network
-added npm run preview:network
-
-Added slightly more particle density in both light and dark mode.
-
-Added subtle dark mode star and meteor animations.
-
-Removed eslint config
-

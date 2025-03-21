@@ -7,7 +7,7 @@ tags:
 - Tutorial
 - HTML
 ---
-
+###### Autor: *[Pedro Henrique Melo](https://www.linkedin.com/in/pedro-henrique-melo-da-silva-a7a700231)*
 HTML (HyperText Markup Language) é a linguagem de marcação padrão para criar páginas web. Ele fornece a estrutura básica de uma página web, que é aprimorada e modificada por outras tecnologias como CSS e JavaScript. Neste artigo, exploraremos como você pode começar a usar HTML, cobrindo os conceitos principais e recomendando as melhores ferramentas para desenvolver suas habilidades.
 
 ### O que é HTML?

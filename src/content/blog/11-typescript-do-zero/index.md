@@ -10,6 +10,7 @@ tags:
 - JavaScript
 - Front End
 ---
+###### Autor: *[Pedro Henrique Melo](https://youtu.be/P5ZqFZKG4uE?si=OXqNtUg2lwQtD3jU)*
 Neste guia vamos explorar o TypeScript, desde o básico a até mesmo conceitos mais avançados para por em prática no dia a dia dos seus projetos ou da sua empresa. Esse é o único guia em que precisamos que você tenha o pré-requisito de já saber sobre JavaScript, então fique atento.
 
 ### O que é TypeScript e como isso afeta o Vasco ✠ ?

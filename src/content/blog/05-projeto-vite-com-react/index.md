@@ -9,7 +9,7 @@ tags:
 - Vite
 - React JS
 ---
-
+###### Autor: *[Pedro Henrique Melo](https://youtu.be/P5ZqFZKG4uE?si=OXqNtUg2lwQtD3jU)*
 Vite.js é uma ferramenta de desenvolvimento web rápida, leve e flexível, especialmente adequada para projetos React. Neste artigo, exploraremos como iniciar e desenvolver projetos React com Vite.js, destacando suas vantagens, configurações básicas e recursos avançados.
 
 ## O que é Vite.js?

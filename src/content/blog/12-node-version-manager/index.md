@@ -11,7 +11,7 @@ tags:
 - Front End
 - Back End
 ---
-###### Autor: *[Pedro Henrique Melo](github.com/PedroHenrique1606)*
+###### Autor: *[Pedro Henrique Melo](https://youtu.be/P5ZqFZKG4uE?si=OXqNtUg2lwQtD3jU)*
 ### **NVM: O Chapolin Colorado do Node.js**
 
 Se você é desenvolvedor e já se pegou brigando com diferentes versões do Node.js, você sabe que essa luta pode ser mais difícil que convencer seu gato a não deitar no notebook enquanto você trabalha. Felizmente, existe um ser para salvar o dia: **NVM**, o Node Version Manager. Vamos explorar o que é o NVM, por que ele é importante e como você pode usá-lo para acabar de vez com seus problemas de versão do Node.js.
