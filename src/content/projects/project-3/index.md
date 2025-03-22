@@ -1,12 +1,33 @@
 ---
-title: "Project Three"
-summary: "Lorem ipsum dolor sit amet"
+title: "Habits"
+summary: "Que tal ter controle de alguns hábitos?"
 date: "Mar 16 2022"
 draft: false
 tags:
-- Vue
+- HTML
 - Javascript
-- Tailwind
+- CSS
+- Vercel
+- Figma
+demoUrl: https://habits-omega.vercel.app/
+repoUrl: https://github.com/PedroHenrique1606/habits
 ---
+## 💻 Projeto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Este **projeto** consiste em ajudar você a fazer uma checklist do seu dia a dia, **registrando os hábitos** feitos e acompanhando de forma precisa os seus hábitos **diários**.
+
+- [Visite o projeto online](https://habits-omega.vercel.app/)
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
+
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [Desse Link](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.

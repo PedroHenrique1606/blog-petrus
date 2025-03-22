@@ -1,16 +1,39 @@
 ---
-title: "Project One"
-summary: "Lorem ipsum dolor sit amet"
+title: "Clone Pinterest UI"
+summary: "Interface interativa com React Native"
 date: "Mar 18 2022"
 draft: false
 tags:
-- Astro
-- Javascript
-- Typescript
+- React Native
 - Tailwind
-- SolidJs
-demoUrl: https://astro-sphere-demo.vercel.app
-repoUrl: https://github.com/markhorn-dev/astro-sphere
+- Typescript
+- Expo
+- Vercel
+repoUrl: https://github.com/PedroHenrique1606/pinterest-ui
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+## Clone Pinterest UI - React Native
+
+Este projeto é um clone da interface de usuário (UI) do Pinterest, desenvolvida em React Native. O objetivo é fornecer aos desenvolvedores uma base sólida para compreender e implementar os principais recursos do Pinterest em um aplicativo móvel.
+
+### Funcionalidades
+- Explorar e descobrir: os usuários podem explorar uma ampla variedade de imagens organizadas em diferentes categorias e temas.
+
+### Tecnologias Usadas 
+- React Native: A estrutura principal para o desenvolvimento do aplicativo móvel.
+- Expo: Plataforma utilizada para criação e gerenciamento do ambiente de desenvolvimento React Native.
+- React Navigation: Biblioteca para navegação entre telas e gerenciamento de rotas.
+- GestureHandler: esta biblioteca fornece um conjunto de componentes e APIs para lidar com interações de toque e gestos em aplicativos React Native. Ele permite interações baseadas em toque suaves e responsivas, incluindo gestos como tocar, deslizar, beliscar e rotações. react-native-gesture-handler é comumente usado para aprimorar a experiência do usuário e criar interfaces mais interativas em aplicativos React Native.
+
+### Instalação
+
+Instale o projeto com npm
+
+```bash
+npm install
+npx expo start
+```
+    
+## Autor
+
+- [@PedroHenrique1606](https://github.com/PedroHenrique1606)

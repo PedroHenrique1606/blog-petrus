@@ -1,31 +1,36 @@
 ---
-title: "Project Four"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 15 2022"
+title: "Travelling"
+summary: "Vamos fazer uma viagem?"
+date: "Jul 21 2023"
 draft: false
 tags:
-- React
-- Javascript
-- StyleX
+- NEXT
+- Typescript
+- Tailwind CSS
+- Vercel
+- Figma
+demoUrl: https://travelling-ivory.vercel.app/
+repoUrl: https://github.com/PedroHenrique1606/travelling
 ---
+## 💻 Projeto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. 
+Este projeto é uma landing page **moderna** e **responsiva** para um site de viagens, desenvolvida com Next.js e Tailwind CSS. A página oferece uma experiência visualmente **atraente** com seções **destacadas** para destinos populares, **benefícios** dos serviços e um chamado à ação para **planejar** suas férias. Elementos interativos, **animações** suaves e ícones sociais completam o design, proporcionando uma navegação **intuitiva** e envolvente para os usuários.
 
-Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. 
+- [Visite o projeto online](https://travelling-ivory.vercel.app/)
 
-Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. 
-Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+## 🚀 Tecnologias
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. 
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. 
+- NEXT 14
+- Typescript
+- Tailwind CSS
+- Figma
+- Muito café
 
-Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. 
-Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. 
+## 🔖 Layout
 
-Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. 
+![Layout](./thumbnail.jpg)
 
-Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. 
-Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Você pode visualizar o layout do projeto através [Desse Link](https://www.figma.com/community/file/1161298959495777934/travling-travel-website-landing-page?searchSessionId=lyvnl0lm-fc483ovp085). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
