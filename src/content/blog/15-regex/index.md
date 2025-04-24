@@ -11,7 +11,7 @@ tags:
 - Front End
 - JavaScript
 ---
-###### Autor: *[Pedro Henrique Melo](http://www.linkedin.com/in/pedro-henrique-melo-da-silva-a7a700231)*
+###### Autor: <em><a href="https://www.linkedin.com/in/pedro-henrique-melo-a7a700231/ " target="_blank" rel="noopener noreferrer">Pedro Henrique Melo</a></em>
 ### **📌 O que são Expressões Regulares?**
 
 Uma expressão regular é um padrão de busca utilizado para encontrar, validar, substituir ou manipular strings. Com uma única linha de código, podemos realizar operações que exigiriam diversas condições e loops.

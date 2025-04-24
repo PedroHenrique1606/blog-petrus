@@ -12,7 +12,7 @@ tags:
 - Back End
 - GitFlow
 ---
-###### Autor: *[Pedro Henrique Melo](https://www.linkedin.com/in/pedro-henrique-melo-da-silva-a7a700231)*
+###### Autor: <em><a href="https://www.linkedin.com/in/pedro-henrique-melo-a7a700231" target="_blank" rel="noopener noreferrer">Pedro Henrique Melo</a></em>
 ### **GitFlow**
 
 Se você é do tipo de programador que faz os projetos direto na branch `Main`, não sabe para que servem os merges ou como funciona a organização de grandes projetos profissionais, esse post é pra você. 
