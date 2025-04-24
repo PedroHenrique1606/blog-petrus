@@ -9,7 +9,7 @@ tags:
 - HTML
 - Front End
 ---
-###### Autor: *[Pedro Henrique Melo](https://www.linkedin.com/in/pedro-henrique-melo-da-silva-a7a700231/)*
+###### Autor: <em><a href="https://www.linkedin.com/in/pedro-henrique-melo-a7a700231/ " target="_blank" rel="noopener noreferrer">Pedro Henrique Melo</a></em>
 CSS (Cascading Style Sheets) é uma linguagem de estilo usada para descrever a apresentação de documentos escritos em HTML ou XML. Com CSS, você pode controlar o layout, cores, fontes e outros aspectos visuais de uma página web. Neste artigo, exploraremos como você pode começar a usar CSS, cobrindo os conceitos principais e fornecendo exemplos práticos.
 
 ### O que é CSS?

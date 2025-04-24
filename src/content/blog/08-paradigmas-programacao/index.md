@@ -8,7 +8,8 @@ tags:
 - Guia
 - Programação
 ---
-###### Autor: *[Pedro Henrique Melo](https://youtu.be/P5ZqFZKG4uE?si=OXqNtUg2lwQtD3jU)*
+###### Autor: <em><a href="https://www.linkedin.com/in/pedro-henrique-melo-a7a700231" target="_blank" rel="noopener noreferrer">Pedro Henrique Melo</a></em>
+
 A programação é uma disciplina vasta e diversificada, com diferentes abordagens para resolver problemas. Essas abordagens são conhecidas como **paradigmas de programação**. Neste post, vamos explorar os **principais paradigmas de programação**, suas **características** e **exemplos de linguagens** que os utilizam.
 
 ### O que são Paradigmas de Programação?

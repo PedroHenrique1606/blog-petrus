@@ -10,7 +10,8 @@ tags:
 - Programação
 - Linux
 ---
-###### Autor: *[Pedro Henrique Melo](https://youtu.be/P5ZqFZKG4uE?si=OXqNtUg2lwQtD3jU)*
+###### Autor: <em><a href="https://www.linkedin.com/in/pedro-henrique-melo-a7a700231" target="_blank" rel="noopener noreferrer">Pedro Henrique Melo</a></em>
+
 Linux é conhecido por sua poderosa interface de linha de comando (CLI), que permite aos usuários executar tarefas de forma eficiente e rápida. Se você está usando Ubuntu, uma das distribuições mais populares do Linux, conhecer os principais comandos do terminal é essencial para aproveitar ao máximo seu sistema. Neste artigo, exploraremos os comandos Linux mais utilizados e como aplicá-los no Ubuntu.
 
 ### O que é Linux?

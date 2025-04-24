@@ -10,7 +10,8 @@ tags:
 - Programação
 - Tutorial
 ---
-###### Autor: *[Pedro Henrique Melo](https://youtu.be/P5ZqFZKG4uE?si=OXqNtUg2lwQtD3jU)*
+###### Autor: <em><a href="https://www.linkedin.com/in/pedro-henrique-melo-a7a700231" target="_blank" rel="noopener noreferrer">Pedro Henrique Melo</a></em>
+
 Escolher o sistema operacional (SO) certo para programar é uma decisão crucial que pode influenciar significativamente sua produtividade e experiência de desenvolvimento. Neste artigo, exploraremos as vantagens e desvantagens dos principais sistemas operacionais – Windows, macOS e Linux – para ajudar você a escolher o mais adequado às suas necessidades.
 
 ### O que é um Sistema Operacional?

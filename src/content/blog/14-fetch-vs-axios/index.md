@@ -11,7 +11,7 @@ tags:
 - Front End
 - Back End
 ---
-###### Autor: *[Pedro Henrique Melo](http://www.linkedin.com/in/pedro-henrique-melo-da-silva-a7a700231)*
+###### Autor: <em><a href="www.linkedin.com/in/pedro-henrique-melo-a7a700231" target="_blank" rel="noopener noreferrer">Pedro Henrique Melo</a></em>
 ### **Por onde começar?**
 
 Ah, o dilema das requisições HTTP. Se você está começando um projeto em JavaScript ou TypeScript, provavelmente já se deparou com a escolha entre usar o `fetch` ou o `axios` para fazer suas requisições. É como escolher entre um café preto e um cappuccino – ambos servem o propósito, mas cada um tem seu charme especial. Então, vamos mergulhar nas diferenças e ver qual é o melhor para você!
